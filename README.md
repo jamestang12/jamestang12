@@ -1,7 +1,7 @@
 # ![James Tang header](https://www.cs.ryerson.ca/~h29tang/James%20Tang.png)
 
 ### Hi there! 👋
-My name is James, I am from Toronto and I am Computer Science student at Ryerson University. I am also a full stack developer which accustomed to develope projects with HTML5/CSS3, JavaScript, React, React Native, Swift, Java, and Python. Check out my project and [GitHub repositories](https://github.com/jamestang12?tab=repositories)!
+My name is James, I am from Toronto and I am Computer Science student at Ryerson University. I am also a full stack developer who is accustomed to developing projects with HTML5/CSS3, JavaScript, React, React Native, Swift, Java, and Python. Check out my project and [GitHub repositories](https://github.com/jamestang12?tab=repositories)!
 
 ### About Me
 - 🎓 Ryerson University | Computer Science
