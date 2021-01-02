@@ -10,7 +10,7 @@ My name is James, I am from Toronto and I am Computer Science student at Ryerson
 - 🚀 Constantly exploring new tech
 
 ### Contact Info
-- 📨 Find me through email: [homing.tanf@ryerson.ca](mailto:homing.tanf@ryerson.ca)
+- 📨 Find me through email: [homing.tang@ryerson.ca](mailto:homing.tang@ryerson.ca)
 - 📷 Reach me through instagram: [james_kibi_tang](https://www.instagram.com/james_kibi_tang/)
 - 📇 Connect through LinkedIn : [James Tang](https://www.linkedin.com/in/james-tang-10038b198/)
 
