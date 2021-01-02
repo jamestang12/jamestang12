@@ -1,4 +1,4 @@
-# [![James Tang header](https://www.cs.ryerson.ca/~h29tang/James%20Tang.png)]
+# ![James Tang header](https://www.cs.ryerson.ca/~h29tang/James%20Tang.png)
 
 ### Hi there! 👋
 My name is James, I am from Toronto and I am Computer Science student at Ryerson University. I am also a full stack developer which accustomed to develope projects with HTML5/CSS3, JavaScript, React, React Native, Swift, Java, and Python. Check out my project and [GitHub repositories](https://github.com/jamestang12?tab=repositories)!
@@ -10,11 +10,13 @@ My name is James, I am from Toronto and I am Computer Science student at Ryerson
 - 🚀 Constantly exploring new tech
 
 ### Contact Info
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Find me through email: [homing.tanf@ryerson.ca](mailto:homing.tanf@ryerson.ca)
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  Reach me through instagram: [james_kibi_tang](https://www.instagram.com/james_kibi_tang/)
+- 📨 Find me through email: [homing.tanf@ryerson.ca](mailto:homing.tanf@ryerson.ca)
+- 📷 Reach me through instagram: [james_kibi_tang](https://www.instagram.com/james_kibi_tang/)
+- 📇 Connect through LinkedIn : [James Tang](https://www.linkedin.com/)
 
 ### Languages and Tools
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></code>
@@ -24,8 +26,12 @@ My name is James, I am from Toronto and I am Computer Science student at Ryerson
 <code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></code>
+<code><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></code>
+<code><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></code>
 <code><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
